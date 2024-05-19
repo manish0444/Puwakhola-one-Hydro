@@ -1,8 +1,12 @@
 import React from "react";
 
+
+
 export const Navigation = (props) => {
   return (
+    
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+      
       <div className="container">
         <div className="navbar-header">
           <button
@@ -18,7 +22,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+          Puwakhola
           </a>{" "}
         </div>
 
@@ -28,8 +32,8 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#features" className="page-scroll">
-                Features
+              <a href="#project" className="page-scroll">
+                Projects
               </a>
             </li>
             <li>
@@ -37,11 +41,7 @@ export const Navigation = (props) => {
                 About
               </a>
             </li>
-            <li>
-              <a href="#services" className="page-scroll">
-                Services
-              </a>
-            </li>
+            
             <li>
               <a href="#portfolio" className="page-scroll">
                 Gallery

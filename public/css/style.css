@@ -25,6 +25,10 @@ h3 {
   font-weight: 600;
   color: #333;
 }
+.blue-hr {
+  border-color: blue;
+}
+
 h4 {
   font-size: 18px;
   color: #333;
@@ -208,7 +212,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/cover.jpeg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -304,6 +308,47 @@ header .intro-text {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
 #about p {
+  line-height: 24px;
+  margin: 30px 0;
+}
+/* project Section */
+#project {
+  padding: 100px 0;
+}
+#project h3 {
+  font-size: 22px;
+  margin: 0 0 20px;
+}
+#project h2 {
+  position: relative;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+#project h2::after {
+  position: absolute;
+  content: "";
+  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  height: 4px;
+  width: 60px;
+  bottom: 0;
+  left: 0;
+}
+#project .project-text li {
+  margin-bottom: 6px;
+  margin-left: 6px;
+  list-style: none;
+  padding: 0;
+}
+#project .project-text li:before {
+  content: "\f00c";
+  font-family: "FontAwesome";
+  color: #5ca9fb;
+  font-size: 11px;
+  font-weight: 300;
+  padding-right: 8px;
+}
+
+#project p {
   line-height: 24px;
   margin: 30px 0;
 }

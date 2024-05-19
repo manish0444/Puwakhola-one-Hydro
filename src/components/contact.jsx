@@ -24,7 +24,7 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_m2p8t8o", "template_lrmam37", e.target, "dEtuKgCYYondC_4In")
       .then(
         (result) => {
           console.log(result.text);
@@ -92,7 +92,7 @@ export const Contact = (props) => {
                   <p className="help-block text-danger"></p>
                 </div>
                 <div id="success"></div>
-                <button type="submit" className="btn btn-custom btn-lg">
+                <button type="Submit" className="btn btn-custom btn-lg">
                   Send Message
                 </button>
               </form>
@@ -150,16 +150,7 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      <div id="footer">
-        <div className="container text-center">
-          <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
-          </p>
-        </div>
-      </div>
+      
     </div>
   );
 };
