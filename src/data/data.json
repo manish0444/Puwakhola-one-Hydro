@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-1.jpg",
+      "smallImage": "img/gallery/gallery-1.jpg"
+    },
+    {
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-2.jpg",
+      "smallImage": "img/gallery/gallery-2.jpg"
+    },
+    {
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-3.jpg",
+      "smallImage": "img/gallery/gallery-3.jpg"
+    },
+    {
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-1.jpg",
+      "smallImage": "img/gallery/gallery-1.jpg"
+    },
+    {
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-1.jpg",
+      "smallImage": "img/gallery/gallery-1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/gallery/gallery-1.jpg",
+      "smallImage": "img/gallery/gallery-1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-1.jpg",
+      "smallImage": "img/gallery/gallery-1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-1.jpg",
+      "smallImage": "img/gallery/gallery-1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Project ",
+      "largeImage": "img/gallery/gallery-1.jpg",
+      "smallImage": "img/gallery/gallery-1.jpg"
     }
   ],
   "Services": [
@@ -99,65 +99,67 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/Kiran malla.jpeg",
+      "text": "\"Mr. Kiran Malla, with over 37 years in the hydropower sector, is the founder chairman of High Himalaya Hydro Construction Pvt. Ltd. and several hydropower companies, including Puwa Khola-One (21 MW), Union Mewa (23 MW), Hongu Hydroelectric (28.9 MW), and Upper Tamor A (60 MW). He has contributed to over 50 hydropower projects in Nepal. Under his leadership, High Himalaya Hydro Construction has completed more than 35 projects, making it Nepal's top private hydropower construction company. He holds a bachelor's in civil engineering from IIT Roorkee and a master's in hydropower from Norway, and is a shareholder in various other companies in Nepal.\"",
+      "name": "Kiran Malla , Chairman"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/kadam k.c.jpeg",
+      "text": "\"Kadam KC, an entrepreneur, with master’s in environmental science and Masters in Geotechnical Engineering from UK universities, has been in business sector for more than fifteen years. He has been involved in business and social works while was in the UK. After coming back to Nepal, he is primarily working in hydropower and has successfully completed Puwa Khola-1 Hydropower (4MW). He also chairs Aayu Entertainments Pvt. Ltd., which launching Fishtail Dream Park in Pokhara. He also has initiated a construction company “Dhaulagiri Construction and Development Pvt. Ltd” and is also a board member in High Himalaya Hydro Construction Pvt. Ltd.\"",
+      "name": "Kadam KC , Managing Director"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/Madhukar garg.jpeg",
+      "text": "\"Madhukar Garg, an entrepreneur, with Postgraduate in Electrical engineering specifically “master’s in electrical Power Engineering” from NTNU (NORAD) and Kathmandu University has extensively explored in reputed organisation like Hulas steel Industries. He is well versed with technical parameter of hydropower. Being an electrical engineer he has extensive knowledge on Electro-mechanical Equipment, Transmission line, etc., Presently, he has successfully completed Puwa Khola-1 Hydropower (4MW) project and now aims to pursue his core interest -Hydropower sector. He is primarily working in hydropower and is associated with various hydropower projects which are under construction and in study phase.\"",
+      "name": "Madhukar Garg, Head of Engineering"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/Arjun kharel.jpeg",
+      "text": "\"Arjun Kharel is an entrepreneur with keen interest in energy sector. He holds a bachelor’s degree in business administration. He has invested in various hydro power projects. Mr. Kharel is one of the major investors in Puwa Khola-1 Hydropower (4MW) project.\"",
+      "name": "Arjun Kharel, Board of Director"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/abhigya malla.jpeg",
+      "text": "\"Ms. Abhigya Malla represents youth and women in the hydropower sector. She holds a master's in professional accountancy and a Master of Commerce in Finance from Macquarie University, Australia. Currently, she applies her expertise as a project developer and youth contractor in the hydropower industry. She is involved with several projects, including Union Mewa (24 MW), Aayu Malun (21 MW), Puwa Khola (4 MW), Hongu Khola (28.9 MW), Midim Khola (3 MW), and Upper Tamor A (60 MW). As Vice President/Finance Controller of High Himalaya Hydro Construction Pvt. Ltd., Nepal's leading hydropower construction company, and Managing Director of Union Hydropower Public Ltd., she aims to advance the sector and improve Nepal's infrastructure.\"",
+      "name": "Abhigya Malla, Board of Director"
     }
+   
   ],
   "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+     {
+      "img": "img/Kiran malla.jpeg",
+      "name": "Kiran Malla",
+      "job": "Chairman "
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/Madhukar garg.jpeg",
+      "name": "Madhukhar Garg",
+      "job": "Head of Engineering"
     },
+   
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/kadam k.c.jpeg",
+      "name": "Kadam Kc ",
+      "job": "Managing Director "
     },
+   
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/Arjun kharel.jpeg",
+      "name": "Arjun Kharel  ",
+      "job": "Board Of Director "
+    }, {
+      "img": "img/abhigya malla.jpeg",
+      "name": "Abhigya Malla ",
+      "job": "Board Of Director"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "Durga bhawan, Anamnagar, Kathmandu ",
+    "phone": "01-4102710",
     "email": "info@company.com",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "instagram": "instagram.com"
+    
   },
   "Features": [
     {

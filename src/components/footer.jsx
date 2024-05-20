@@ -72,21 +72,34 @@ const Footer = () => {
       <FooterContent>
         <FooterSection>
           <SectionTitle>About Us</SectionTitle>
-          <SectionText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna vel enim varius lacinia.</SectionText>
-        </FooterSection>
+          <SectionText>Harnessing the power of renewable energy to drive sustainable development</SectionText>
+        </FooterSection> 
         <FooterSection>
-          <SectionTitle>Contact</SectionTitle>
+          <SectionTitle>Address</SectionTitle>
           <SectionList>
-            <ListItem>Email: info@example.com</ListItem>
-            <ListItem>Phone: +123-456-7890</ListItem>
+            <ListItem>Durga bhawan, Anamnagar, Kathmandu</ListItem>
+          
           </SectionList>
         </FooterSection>
         <FooterSection>
+          <SectionTitle>Contact</SectionTitle>
+          <SectionList> Email:
+          <ListItem>
+        <a href="mailto:puwakholahydropower@gmail.com">puwakholahydropower@gmail.com</a>
+      </ListItem>
+      <ListItem>
+        <a href="mailto:Malunhydro@gmail.com">Malunhydro@gmail.com</a>
+      </ListItem>Phone:
+            <ListItem><a href="tel:014102710">01-4102710</a></ListItem>
+          </SectionList>
+        </FooterSection>
+       
+        <FooterSection>
           <SectionTitle>Follow Us</SectionTitle>
           <SocialIcons>
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
+            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter"></i></a>
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a>
           </SocialIcons>
         </FooterSection>
       </FooterContent>

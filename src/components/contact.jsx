@@ -126,28 +126,25 @@ export const Contact = (props) => {
             </div>
           </div>
           <div className="col-md-12">
-            <div className="row">
-              <div className="social">
-                <ul>
-                  <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
-                    </a>
-                  </li>
-                </ul>
+                <div className="row">
+                <div className="section-title">
+                <h2>Find us</h2>
+               
               </div>
-            </div>
-          </div>
+                  <div className="map">
+                    <iframe
+                      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3532.6601137387293!2d85.330772!3d27.696898000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb198ede6fd59f%3A0x20be0d749f0bdcb2!2sDurga%20Bhawan!5e0!3m2!1sen!2snp!4v1716184480118!5m2!1sen!2snp"
+                      width="100%"
+                      height="450"
+                      frameBorder="0"
+                      style={{ border: 0 }}
+                      allowFullScreen=""
+                      aria-hidden="false"
+                      tabIndex="0"
+                    ></iframe>
+                  </div>
+                </div>
+              </div>
         </div>
       </div>
       
