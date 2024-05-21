@@ -113,7 +113,9 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-phone"></i> Phone
                 </span>{" "}
-                {props.data ? props.data.phone : "loading"}
+                <a href="tel:014102710" style={{ color: 'white' }}>01-4102710</a>
+
+
               </p>
             </div>
             <div className="contact-item">
@@ -121,7 +123,9 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
                 </span>{" "}
-                {props.data ? props.data.email : "loading"}
+                <a href="mailto:puwakholahydropower@gmail.com" style={{ color: 'white' }}>puwakholahydropower@gmail.com</a>
+                <br></br>
+                <a href="mailto:Malunhydro@gmail.com" style={{ color: 'white' }}>Malunhydro@gmail.com</a>
               </p>
             </div>
           </div>

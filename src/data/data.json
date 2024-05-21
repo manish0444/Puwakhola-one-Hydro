@@ -36,67 +36,21 @@
     },
     {
       "title": "Project ",
-      "largeImage": "img/gallery/gallery-1.jpg",
-      "smallImage": "img/gallery/gallery-1.jpg"
+      "largeImage": "img/cover.jpeg",
+      "smallImage": "img/cover.jpeg"
     },
     {
       "title": "Project ",
-      "largeImage": "img/gallery/gallery-1.jpg",
-      "smallImage": "img/gallery/gallery-1.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/gallery/gallery-1.jpg",
-      "smallImage": "img/gallery/gallery-1.jpg"
+      "largeImage": "img/gallery/gallery-6.jpg",
+      "smallImage": "img/gallery/gallery-6.jpg"
     },
     {
       "title": "Project ",
-      "largeImage": "img/gallery/gallery-1.jpg",
-      "smallImage": "img/gallery/gallery-1.jpg"
-    },
-    {
-      "title": "Project ",
-      "largeImage": "img/gallery/gallery-1.jpg",
-      "smallImage": "img/gallery/gallery-1.jpg"
-    },
-    {
-      "title": "Project ",
-      "largeImage": "img/gallery/gallery-1.jpg",
-      "smallImage": "img/gallery/gallery-1.jpg"
+      "largeImage": "img/gallery/gallery-7.jpg",
+      "smallImage": "img/gallery/gallery-7.jpg"
     }
   ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
+ 
   "Testimonials": [
     {
       "img": "img/Kiran malla.jpeg",
@@ -112,17 +66,17 @@
       "img": "img/Madhukar garg.jpeg",
       "text": "\"Madhukar Garg, an entrepreneur, with Postgraduate in Electrical engineering specifically “master’s in electrical Power Engineering” from NTNU (NORAD) and Kathmandu University has extensively explored in reputed organisation like Hulas steel Industries. He is well versed with technical parameter of hydropower. Being an electrical engineer he has extensive knowledge on Electro-mechanical Equipment, Transmission line, etc., Presently, he has successfully completed Puwa Khola-1 Hydropower (4MW) project and now aims to pursue his core interest -Hydropower sector. He is primarily working in hydropower and is associated with various hydropower projects which are under construction and in study phase.\"",
       "name": "Madhukar Garg, Head of Engineering"
+    }, {
+      "img": "img/abhigya malla.jpeg",
+      "text": "\"Ms. Abhigya Malla represents youth and women in the hydropower sector. She holds a master's in professional accountancy and a Master of Commerce in Finance from Macquarie University, Australia. Currently, she applies her expertise as a project developer and youth contractor in the hydropower industry. She is involved with several projects, including Union Mewa (24 MW), Aayu Malun (21 MW), Puwa Khola (4 MW), Hongu Khola (28.9 MW), Midim Khola (3 MW), and Upper Tamor A (60 MW). As Vice President/Finance Controller of High Himalaya Hydro Construction Pvt. Ltd., Nepal's leading hydropower construction company, and Managing Director of Union Hydropower Public Ltd., she aims to advance the sector and improve Nepal's infrastructure.\"",
+      "name": "Abhigya Malla, Board of Director"
     },
     {
       "img": "img/Arjun kharel.jpeg",
       "text": "\"Arjun Kharel is an entrepreneur with keen interest in energy sector. He holds a bachelor’s degree in business administration. He has invested in various hydro power projects. Mr. Kharel is one of the major investors in Puwa Khola-1 Hydropower (4MW) project.\"",
       "name": "Arjun Kharel, Board of Director"
-    },
-    {
-      "img": "img/abhigya malla.jpeg",
-      "text": "\"Ms. Abhigya Malla represents youth and women in the hydropower sector. She holds a master's in professional accountancy and a Master of Commerce in Finance from Macquarie University, Australia. Currently, she applies her expertise as a project developer and youth contractor in the hydropower industry. She is involved with several projects, including Union Mewa (24 MW), Aayu Malun (21 MW), Puwa Khola (4 MW), Hongu Khola (28.9 MW), Midim Khola (3 MW), and Upper Tamor A (60 MW). As Vice President/Finance Controller of High Himalaya Hydro Construction Pvt. Ltd., Nepal's leading hydropower construction company, and Managing Director of Union Hydropower Public Ltd., she aims to advance the sector and improve Nepal's infrastructure.\"",
-      "name": "Abhigya Malla, Board of Director"
     }
+   
    
   ],
   "Team": [
